@@ -1,8 +1,8 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Website by Gianna Carrozza
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+For Public Health
 &mdash;
-this site is [open source]({{ site.source_link }})
+UIC Pubh 110
 
