@@ -41,6 +41,6 @@ fa-icon: map-marker
   </p>
   
   <p>
-    The Greater Chicago Food Depository is a nonprofit food distribution that provides food for hungry people throughout the city. They distribute food to 650 different soup kitchens, shelters, mobile programs, children programs, older adult programs, and innovative responses that that address that address the root causes of hunger. They work with roughly 350 local and national food companies, grocers, and other food service organizations to be able to provide and feed the hungry people of Cook County. Their mission and goal is to make sure that no one in Chicago goes hungry.
+    The Greater Chicago Food Depository is a nonprofit food distribution that provides food for hungry people throughout the city. They distribute food to 650 different soup kitchens, shelters, mobile programs, children programs, older adult programs, and innovative responses that address the root causes of hunger. They work with roughly 350 local and national food companies, grocers, and other food service organizations to be able to provide and feed the hungry people of Cook County. Their mission and goal is to make sure that no one in Chicago goes hungry.
   </p>
 </div>
