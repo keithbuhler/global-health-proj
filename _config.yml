@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/scsriverside'
 exclude: ['README.md']
 permalink: pretty
 title:       "Saint Constantine, Riverside"
@@ -35,7 +35,3 @@ google_analytics_id: null
 
 plugins:
   - jekyll-environment-variables
-
-
-
-## source_link: "http://keithbuhler.com/scsriverside"
