@@ -1,7 +1,10 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title:       "Saint Constantine, Riverside"
+keywords:    "education, classical, academy"
+description: "A draft website for the Saint Constantine, Riverside School in Riverside California."
+
 
 collections:
   services:
@@ -32,3 +35,7 @@ google_analytics_id: null
 
 plugins:
   - jekyll-environment-variables
+
+
+
+## source_link: "http://keithbuhler.com/scsriverside"
