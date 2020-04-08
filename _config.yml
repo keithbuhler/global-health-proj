@@ -15,10 +15,11 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Global Health Project"
-keywords:    "health, project, food, nutrition, urban"
-description: "Elit cumque praesentium voluptates deleniti pariatur similique. Ex aspernatur rem fugiat voluptas!"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Saint Constantine, Riverside"
+keywords:    "education, classical, academy"
+url: http://keithbuhler.com/scsriverside
+description: "A draft website for the Saint Constantine, Riverside School in Riverside California."
+source_link: "http://keithbuhler.com/scsriverside"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
