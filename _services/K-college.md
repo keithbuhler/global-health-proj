@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Kindergarten through College'
 image: '/services/default.png'
 ---
 
