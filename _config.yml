@@ -1,36 +1,34 @@
----
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'Jekyll Serif'
 
-port: 4000
-host: 0.0.0.0
-safe: false
+collections:
+  services:
+    output: true
+    permalink: /services/:path/
+  team:
+    output: true
+    permalink: /team/:path/
+  testimonials:
+    output: true
+    permalink: /testimonials/:path/
 
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+      bodyClass: page-services-single
+  - scope:
+      path: 'images'
+    values:
+      image: true
 
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
-highlighter: rouge
+sass:
+  style: compact # possible values: nested expanded compact compressed
 
+google_analytics_id: null
 
-### content configuration ###
-title:       "Saint Constantine, Riverside"
-keywords:    "education, classical, academy"
-description: "A draft website for the Saint Constantine, Riverside School in Riverside California."
-source_link: "http://keithbuhler.com/scsriverside"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
-
-
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-
+plugins:
+  - jekyll-environment-variables
