@@ -17,7 +17,6 @@ highlighter: pygments
 ### content configuration ###
 title:       "Saint Constantine, Riverside"
 keywords:    "education, classical, academy"
-url: http://keithbuhler.com/scsriverside
 description: "A draft website for the Saint Constantine, Riverside School in Riverside California."
 source_link: "http://keithbuhler.com/scsriverside"
 favicon:     #put a path like: "img/favicon.ico"
