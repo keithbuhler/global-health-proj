@@ -9,7 +9,7 @@ fa-icon: map-marker
 
 <div class="row full column">
 <p>
-  According to Feeding America’s most recent report from 2012, about 800,000 people in Cook County are food insecure. Food insecurity is the state of being without reliable access to a sufficient quantity of affordable, nutritious food. Poor nutrition leads to a number of chronic diseases such as heart disease and diabetes which can be fatal if not treated.
+In 2018, the Saint Constantine School in Houston Texas launched. 
 </p>
 </div>
 
@@ -29,7 +29,7 @@ fa-icon: map-marker
 
 <div class="row full column">
   <p>
-    This map from the Greater Chicago Food Depository shows populations of food insecure people.
+    This map shows how many students have enrolled from which counties. 
   </p>
   
   <p>
