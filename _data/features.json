@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Feature 1 - ACCS",
+    "description": "We are proud members of the Association of CLassical Christian Schools.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Feature 2 - Classical",
+    "description": "All members of our team are dedicated, loving, Christians with years of experience in classical education.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Feature 3 - Flexible",
+    "description": "We stay up to date on the latest changes in Education and Technology -- without sacrificing our commitment to the great tradition of Christendom.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
